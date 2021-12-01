@@ -1,1 +1,1 @@
-# aoc_21
+# Advent of Code
