@@ -2,7 +2,7 @@
 
 Languages i want to try:
 * Python :white_check_mark:
-* F#
+* F# :white_check_mark:
 * C
 * Fortran
 * Cobol
